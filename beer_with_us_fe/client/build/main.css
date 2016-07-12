@@ -1,0 +1,62 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#map {
+  height: 100%;
+  width: 100%;
+  display: inline-block;
+}
+
+#mapDiv {
+  width: 40%;
+  height: 550px;
+  display: inline-block;
+}
+
+#formDiv {
+  float: right;
+  width: 100%;
+  text-align: center;
+}
+
+
+#info {
+  width: 60%;
+  height: 550px;
+  display: inline-block;
+  float: right;
+}
+
+#breweryDesc {
+  width: 65%;
+  display: inline-block;
+  float: right;
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+
+#breweryImg {
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+}
+
+#stillGame {
+  width:100%;
+  height: 100%;
+}
+
+#breweryData {
+  background-color: firebrick;
+}
+
+
+
+
+
